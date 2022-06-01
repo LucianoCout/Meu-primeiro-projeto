@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(4, 4, 17); 
+}
+
+li{
+    color: rgb(104, 161, 212);
+    font-size: large;
+}
+
+a{
+    color: rgb(136, 188, 234);
+}
+
+
+h1{
+    color: rgb(225, 16, 16);
+    font-size: large 100px
+}
+
+
+h2{
+    color: beige;
+}
+
+p{
+    color: azure;
+}
+footer{
+    color: brown;
+}
